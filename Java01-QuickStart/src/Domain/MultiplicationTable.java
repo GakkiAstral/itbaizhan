@@ -1,3 +1,5 @@
+package Domain;
+
 public class MultiplicationTable {
     /**
      * 输出打印九九乘法表

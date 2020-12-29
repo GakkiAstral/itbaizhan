@@ -1,3 +1,5 @@
+package Domain;
+
 public class DataTypeOperator {
     /**
      * 运算符功能测试及运算结果
